@@ -101,7 +101,8 @@ ggplotly(alcoholxage)
 ```
 
 ## Research Question 2 (Linear Model)
-# “To what extent do age and gender predict the usage of drugs reported by students?”
+## 2) Is regular alcohol consumption associated with an increased likelihood of trying recreational drugs?
+## comment = need to determine what "regular" means. also only use data of individuals who said YES to trying recreational drugs or getting high from them
 
 Type your research question evidence here. Include testing assumptions of the linear model (residual plot).
 
